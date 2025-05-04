@@ -1,0 +1,16 @@
+{
+  "domain": "example.com",
+  "cby_id": "CBY 7FJ9X-KL3P2",
+  "score": 92,
+  "tier": "Purple",
+  "active": true,
+  "expires": "2026-05-04",
+  "metadata": {
+    "schema_compliance": true,
+    "mcp": true,
+    "a2a": true,
+    "agent_ready": true,
+    "modular_outputs": true,
+    "license": "agent-standard.json"
+  }
+}
